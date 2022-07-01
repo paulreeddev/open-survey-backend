@@ -18,6 +18,7 @@ This Project is made possible by
             <a href="https://hashnode.com/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg" /></a>
         </td>
     </tr>
+</table>
 
 ## Requirements
 
