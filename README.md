@@ -9,15 +9,15 @@ This repo is the backend, for the frontend go to [here](https://github.com/paulr
 This Project is made possible by
 
 <table>
-<tr>
-        <td>
+<tr><td>
             <a href="https://www.linode.com/"><img src="https://www.linode.com/wp-content/uploads/2021/01/Linode-Logo-Black.svg" /></a>
         </td>
+        </tr>
+        <tr>
         <td>
             <a href="https://hashnode.com/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg" /></a>
         </td>
     </tr>
-</table>
 
 ## Requirements
 
